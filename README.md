@@ -6,7 +6,7 @@ A modern, fully static restaurant website for **Jade Garden**, an authentic Chin
 
 ## Live Preview
 
-> Deploy to Hostinger and replace this line with your domain.
+**[https://jaderestaurant.veloraweb.co.uk](https://jaderestaurant.veloraweb.co.uk)**
 
 ---
 
