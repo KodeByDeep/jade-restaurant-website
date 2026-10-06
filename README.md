@@ -109,7 +109,7 @@ jade-next/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/KodeByDeep/jade-restaurant-website.git
-cd jade-garden
+cd jade-restaurant-website
 
 # 2. Install dependencies
 npm install
