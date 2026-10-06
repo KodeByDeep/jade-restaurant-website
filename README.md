@@ -179,41 +179,11 @@ For business details (address, phone, hours) search for `110 Coastal Avenue` and
 
 ---
 
-## GitHub Push (First Time)
-
-```bash
-# Make sure you are in the project directory
-cd jade-next
-
-# Stage all files
-git add .
-
-# Commit
-git commit -m "feat: Jade Garden restaurant website"
-
-# Create a new repo on github.com, then:
-git remote add origin https://github.com/KodeByDeep/jade-restaurant-website.git
-git branch -M main
-git push -u origin main
-```
 
 > Tip: The `out/` folder and `*.zip` are ignored via `.gitignore` by default — they are build artefacts and should not be committed.
 
 ---
 
-## .gitignore
-
-Make sure your `.gitignore` contains at least:
-
-```
-node_modules/
-.next/
-out/
-*.zip
-.DS_Store
-```
-
----
 
 ## Available Scripts
 
@@ -228,4 +198,4 @@ out/
 ## License
 
 For personal and commercial use by the site owner. Images are sourced from [Unsplash](https://unsplash.com) (free for commercial use under the Unsplash License).
-# Jade_restaurent-
+
