@@ -108,7 +108,7 @@ jade-next/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/jade-garden.git
+git clone https://github.com/KodeByDeep/jade-restaurant-website.git
 cd jade-garden
 
 # 2. Install dependencies
@@ -192,7 +192,7 @@ git add .
 git commit -m "feat: Jade Garden restaurant website"
 
 # Create a new repo on github.com, then:
-git remote add origin https://github.com/YOUR_USERNAME/jade-garden.git
+git remote add origin https://github.com/KodeByDeep/jade-restaurant-website.git
 git branch -M main
 git push -u origin main
 ```
